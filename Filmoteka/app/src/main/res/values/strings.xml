@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Filmoteka</string>
+    <string name="title">Film library</string>
+
+    <string name="status_watched">Watched</string>
+    <string name="status_unwatched">Unwatched</string>
+
+    <string name="feature_film">Feature film</string>
+    <string name="shor_film">Short film</string>
+    <string name="series">Series</string>
+    <string name="mini_series">Mini-series</string>
+    <string name="documentary_film">Documentary film</string>
+    <string name="documentary_series">Documentary series</string>
+    <string name="animated_film">Animated film</string>
+    <string name="animated_series">Animated series</string>
+    <string name="film">Film</string>
+    <string name="reality_show">Reality show</string>
+    <string name="talk_show">Talk show</string>
+
+    <string name="new_screenwork">New screenwork</string>
+    <string name="edit_screenwork">Edit screenwork</string>
+
+    <string name="image_placeholder">Image placeholder. Designed by rawpixel.com</string>
+
+    <string name="filter_button">Filter button</string>
+    <string name="add_button">Add button</string>
+
+    <string name="untitled">Untitled</string>
+    <string name="screenwork_title">Title</string>
+
+    <string name="error_title">Title can\'t be empty</string>
+
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+
+    <string name="poster">Screenwork poster</string>
+
+    <string name="date_format">YYYY-MM-DD</string>
+
+    <string name="error_premiere">Select date</string>
+
+    <string name="premiere">Premiere</string>
+    <string name="select_date">Select date</string>
+    <string name="select_premiere_date">Select premiere date</string>
+
+    <string name="confirm">Confirm</string>
+    <string name="dismiss">Dismiss</string>
+
+    <string name="rating">Rating</string>
+    <string name="error_rating">From 0 to 5</string>
+
+    <string name="star_rating">Star rating</string>
+
+    <string name="placeholder_uri">android.resource://pl.edu.pl.s24787.filmoteka/drawable/image_placeholder</string>
+
+</resources>
